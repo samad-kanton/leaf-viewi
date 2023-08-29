@@ -35,6 +35,7 @@
     },
     "autoload": {
         "psr-4": {
+            "Components\\": "viewi-app/Components/",
             "Lib\\": "lib/",
             "App\\": "app/",
             "Config\\": "config/",
