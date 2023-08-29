@@ -1,0 +1,9 @@
+vendor
+composer.lock
+.env
+node_modules
+build
+dist
+compiled
+.idea
+Auth2
